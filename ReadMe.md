@@ -1,3 +1,3 @@
-#GitHub Course
+# GitHub Course
 
 This is repository discription
